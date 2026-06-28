@@ -1,6 +1,6 @@
 # UE4SS for ITR
 
-This is a simple repack of UE4SS_v3.0.1-321-gb47690f with a default config and some patches to make it work for ITR1.0, 2.7, and ITR2.
+This is a simple repack of UE4SS_v3.0.1-947-g06474186 with a default config and some patches to make it work for ITR1.0, 2.7, and ITR2.
 
 To build a package from this repo for your release ensure you have `sed`, `zip`, and `make` installed on your system and then run `ITR1` or `ITR2` for the game release you wish to build for.
 
